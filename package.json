@@ -15,6 +15,6 @@
     "@hapi/joi": "^15.1.1",
     "@hapi/vision": "^5.5.4",
     "hapi-mysql2": "^2.4.2",
-    "hapi-swagger": "^10.2.0"
+    "hapi-swagger": "^16.0.1"
   }
 }
